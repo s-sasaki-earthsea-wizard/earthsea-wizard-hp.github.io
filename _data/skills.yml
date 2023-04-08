@@ -23,5 +23,8 @@
 - skill: Docker, AWS EC2
   description: 開発環境の構築のため、コンテナやクラウドサービスを用いた開発を行っています<br>Containerisation and Cloud computing
 
+- skill: Terraform (IaC, Infrastructure as Code)
+  description: AWSのリソースをTerraformでコード化し、構築の自動化によってインフラストラクチャーの利用効率の改善に取り組んでいます。 <br> Improving infrastructure utilization by using Terraform codes
+
 - skill: 微分方程式の数値解の計算
   description: Runge–Kutta法やCrank–Nicolson法などの代表的なアルゴリズムを用いて、常微分方程式、偏微分方程式の数値計算を研究のために実装した経験があります<br>Numerical analysis of differential equations
