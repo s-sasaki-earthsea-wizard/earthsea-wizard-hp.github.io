@@ -17,12 +17,12 @@ resume_title:                   "ソフトウェア開発事業　アースシ�
 resume_contact_email:           "syota.sasaki@earthsea-wizard.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "070-8587-8274"
+# resume_contact_telephone:       "070-8587-8274"
 resume_contact_address:         "東京都新宿区在住 / Shinjuku-ku, Tokyo"
 
-resume_header_contact_info:        "syota.sasaki★earthsea-wizard.com"
-resume_header_contact_info_suffix: "'★'マークを'@'に置き換えてください / Replace '★' into '@'."
-resume_header_contact_telephone:   "070-8587-8274"
+#resume_header_contact_info:        "syota.sasaki★earthsea-wizard.com"
+#resume_header_contact_info_suffix: "'★'マークを'@'に置き換えてください / Replace '★' into '@'."
+#resume_header_contact_telephone:   "070-8587-8274"
 resume_header_contact_address:     "東京都新宿区在住 / Shinjuku-ku, Tokyo"
 display_header_contact_info:       "true"
 
@@ -32,7 +32,7 @@ resume_header_intro: "<p>アースシーウィザード代表の佐々木は<ul>
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+# resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
