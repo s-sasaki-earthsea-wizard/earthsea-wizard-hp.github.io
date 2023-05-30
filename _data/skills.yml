@@ -23,6 +23,12 @@
 - skill: Docker, AWS EC2
   description: 開発環境の構築のため、コンテナやクラウドサービスを用いた開発を行っています<br>Containerisation and Cloud computing
 
+- skill: AWS Lambda, EFS, S3, RDS
+  description: 効率的なデプロイのためこれらのAWSのサービスを組み合わせたDevOps活動に取り組んでいます<br>I am engaged in DevOps activities, utilizing a combination of AWS services such as EC2, Lambda, S3, EFS, and RDS for the efficient deployment of large volumes of image and point cloud data.
+
+- skill: MySQL
+  description: Amazon RDSのテーブルに保存されたデータの分析や情報抽出のためにSQLを利用しています<br>I am using SQL for analyzing and extracting information from data stored in Amazon RDS tables.
+
 - skill: Terraform (IaC, Infrastructure as Code)
   description: AWSのリソースをTerraformでコード化し、構築の自動化によってインフラストラクチャーの利用効率の改善に取り組んでいます。 <br> Improving infrastructure utilization by using Terraform codes
 
