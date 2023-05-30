@@ -10,6 +10,6 @@
   summary: <img src="./images/portfolios/koyama-gakuen-portfolio-01.png"> <img src="./images/portfolios/koyama-gakuen-portfolio-02.png"><br> ※掲載許可を頂いています / Permission for publication.
 
 - award: ブラウンリバース株式会社様 / Brownreverse Inc. (<a href="https://www.brownreverse.com/" target="_blank">Link</a>)
-  organization: プラント施設のバーチャルリアリティ開発業務の支援 / Development of virtual reality service for plant facilities.
+  organization: プラント施設のバーチャルリアリティ開発業務の支援。<br>大量の画像や点群データを効率的にデプロイするため、boto3やpymysqlを用いたPythonコードを実行し、EC2やS3、EFS、RDSなどのAWSのサービスを組み合わせたDevOps活動。 / Development of virtual reality service for plant facilities. Engaged in DevOps activities which involved executing Python code using boto3 and pymysql, in combination with AWS services such as EC2, S3, EFS, and RDS, to efficiently deploy large volumes of image and point cloud data.
   year: Jan. 2023 - 
   #summary: Voted Most Likely To Succeed by a panel of my high school peers.
